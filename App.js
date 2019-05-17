@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import trans from './trans.js';
 
 class App extends Component {
 
