@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import trans from './trans.js';
+import css from './App.css';
 
 class App extends Component {
 
